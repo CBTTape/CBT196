@@ -1,0 +1,8 @@
+2023-04-02 22:33:11.970413 - Initialized conversion of CBT196
+2023-04-02 22:33:12.021959 - Received CBT.V504.FILE196.PDS from FILE196.XMI 
+2023-04-02 22:33:12.024887 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE196.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:33:12.025992 - Found $$DOC.txt (text/plain) in CBT.V504.FILE196.PDS, moved to PDS/$$DOC
+2023-04-02 22:33:12.027067 - Found @FILE196.txt (text/plain) in CBT.V504.FILE196.PDS, moved to PDS/@FILE196
+2023-04-02 22:33:12.028220 - Found SMJES41.txt (text/plain) in CBT.V504.FILE196.PDS, moved to PDS/SMJES41
+2023-04-02 22:33:12.029173 - Found SMJES41J.jcl (text/plain) in CBT.V504.FILE196.PDS, moved to PDS/SMJES41J
+2023-04-02 22:33:12.030102 - Found SMJES43.txt (text/plain) in CBT.V504.FILE196.PDS, moved to PDS/SMJES43
